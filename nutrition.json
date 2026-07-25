@@ -1,182 +1,1470 @@
-chain,category,item,calories,protein_g,carbs_g,fat_g
-Chick-fil-A,Drinks,Diet Lemonade (medium),50,0.0,14.0,0.0
-Chick-fil-A,Drinks,Lemonade (medium),220,0.0,58.0,0.0
-Chick-fil-A,Drinks,Milkshake — Cookies & Cream,630,13.0,92.0,24.0
-Chick-fil-A,Drinks,Sweet Tea (medium),120,0.0,31.0,0.0
-Chick-fil-A,Entrees,Chick-fil-A Chicken Sandwich,420,29.0,41.0,18.0
-Chick-fil-A,Entrees,Cobb Salad w/ Nuggets (no dressing),520,40.0,26.0,27.0
-Chick-fil-A,Entrees,Deluxe Chicken Sandwich,490,32.0,44.0,22.0
-Chick-fil-A,Entrees,Grilled Chicken Club,520,38.0,45.0,23.0
-Chick-fil-A,Entrees,Grilled Chicken Cool Wrap (no dressing),350,42.0,29.0,13.0
-Chick-fil-A,Entrees,Grilled Chicken Sandwich,390,28.0,44.0,12.0
-Chick-fil-A,Entrees,Grilled Nuggets (12-count),200,38.0,3.0,4.5
-Chick-fil-A,Entrees,Grilled Nuggets (8-count),130,25.0,2.0,3.0
-Chick-fil-A,Entrees,Nuggets (12-count),380,40.0,16.0,17.0
-Chick-fil-A,Entrees,Nuggets (8-count),250,27.0,11.0,11.0
-Chick-fil-A,Entrees,Spicy Chicken Sandwich,450,29.0,45.0,19.0
-Chick-fil-A,Sauces,Barbeque Sauce,45,0.0,11.0,0.0
-Chick-fil-A,Sauces,Chick-fil-A Sauce,140,0.0,6.0,13.0
-Chick-fil-A,Sauces,Garden Herb Ranch,140,1.0,1.0,14.0
-Chick-fil-A,Sauces,Honey Mustard,45,0.0,10.0,0.0
-Chick-fil-A,Sauces,Polynesian Sauce,110,0.0,13.0,6.0
-Chick-fil-A,Sauces,Sweet & Spicy Sriracha,45,0.0,10.0,0.0
-Chick-fil-A,Sauces,Zesty Buffalo,25,0.0,1.0,2.5
-Chick-fil-A,Sides,Fruit Cup (medium),60,1.0,15.0,0.0
-Chick-fil-A,Sides,Kale Crunch Side (small),120,3.0,8.0,9.0
-Chick-fil-A,Sides,Mac & Cheese (medium),450,17.0,29.0,29.0
-Chick-fil-A,Sides,Side Salad (no dressing),160,5.0,10.0,11.0
-Chick-fil-A,Sides,Waffle Fries (medium),420,5.0,45.0,24.0
-Chick-fil-A,Sides,Waffle Fries (small),320,4.0,34.0,19.0
-Chick-fil-A,Sides,Waffle Potato Chips,220,3.0,25.0,13.0
-Chipotle Mexican Grill,Beans,Black beans,130,8.0,22.0,1.5
-Chipotle Mexican Grill,Beans,Pinto beans,130,8.0,21.0,1.5
-Chipotle Mexican Grill,Extras,Chips,540,7.0,73.0,25.0
-Chipotle Mexican Grill,Extras,Honey vinaigrette,220,1.0,18.0,16.0
-Chipotle Mexican Grill,Extras,Tortilla on the side,320,8.0,50.0,9.0
-Chipotle Mexican Grill,Protein,Barbacoa,170,24.0,2.0,7.0
-Chipotle Mexican Grill,Protein,Carnitas,210,23.0,0.0,12.0
-Chipotle Mexican Grill,Protein,Chicken,180,32.0,0.0,7.0
-Chipotle Mexican Grill,Protein,Chicken al pastor,200,23.0,4.0,11.0
-Chipotle Mexican Grill,Protein,Chipotle Honey Chicken,210,21.0,13.0,8.0
-Chipotle Mexican Grill,Protein,Sofritas,150,8.0,9.0,10.0
-Chipotle Mexican Grill,Protein,Steak,150,21.0,1.0,6.0
-Chipotle Mexican Grill,Rice,Brown rice,210,4.0,36.0,6.0
-Chipotle Mexican Grill,Rice,White rice,210,4.0,40.0,4.0
-Chipotle Mexican Grill,Toppings & salsas,Cheese,110,6.0,1.0,8.0
-Chipotle Mexican Grill,Toppings & salsas,Corn salsa,80,3.0,16.0,1.5
-Chipotle Mexican Grill,Toppings & salsas,Fajita veggies,20,1.0,5.0,0.0
-Chipotle Mexican Grill,Toppings & salsas,Green salsa,15,0.0,4.0,0.0
-Chipotle Mexican Grill,Toppings & salsas,Guacamole,230,2.0,8.0,22.0
-Chipotle Mexican Grill,Toppings & salsas,Lettuce,5,0.0,1.0,0.0
-Chipotle Mexican Grill,Toppings & salsas,Queso blanco,120,5.0,4.0,9.0
-Chipotle Mexican Grill,Toppings & salsas,Red salsa,30,0.0,4.0,0.0
-Chipotle Mexican Grill,Toppings & salsas,Sour cream,110,2.0,2.0,9.0
-Chipotle Mexican Grill,Toppings & salsas,Tomato salsa,25,0.0,4.0,0.0
-Panda Express,Appetizers,Chicken Egg Roll,200,6.0,20.0,10.0
-Panda Express,Appetizers,Chicken Potsticker (3pc),160,6.0,20.0,6.0
-Panda Express,Appetizers,Cream Cheese Rangoon (3pc),190,5.0,24.0,8.0
-Panda Express,Appetizers,Vegetable Spring Roll (2),240,4.0,24.0,14.0
-Panda Express,Entrees,Beijing Beef,470,14.0,46.0,27.0
-Panda Express,Entrees,Black Pepper Chicken,280,13.0,15.0,19.0
-Panda Express,Entrees,Black Pepper Sirloin Steak,180,19.0,12.0,6.0
-Panda Express,Entrees,Broccoli Beef,150,15.0,12.0,6.0
-Panda Express,Entrees,Eggplant Tofu,340,7.0,23.0,24.0
-Panda Express,Entrees,Grilled Teriyaki Chicken,275,33.0,14.0,10.0
-Panda Express,Entrees,Honey Sesame Chicken Breast,340,16.0,35.0,15.0
-Panda Express,Entrees,Honey Walnut Shrimp,430,13.0,32.0,28.0
-Panda Express,Entrees,Hot Orange Chicken,550,17.0,59.0,27.0
-Panda Express,Entrees,Kung Pao Chicken,320,17.0,15.0,21.0
-Panda Express,Entrees,Mushroom Chicken,220,13.0,10.0,14.0
-Panda Express,Entrees,Orange Chicken,510,16.0,53.0,24.0
-Panda Express,Entrees,Potato Chicken,190,8.0,18.0,10.0
-Panda Express,Entrees,Steamed Ginger Fish,200,15.0,8.0,12.0
-Panda Express,Entrees,String Bean Chicken Breast,210,12.0,13.0,12.0
-Panda Express,Entrees,Super Greens Entree,90,6.0,10.0,3.0
-Panda Express,Entrees,Sweet & Sour Chicken Breast,300,10.0,40.0,12.0
-Panda Express,Entrees,Sweetfire Chicken Breast,360,15.0,40.0,15.0
-Panda Express,Entrees,Teriyaki Chicken,340,41.0,14.0,13.0
-Panda Express,Entrees,Wok-Fired Shrimp,190,17.0,19.0,5.0
-Panda Express,Sauces,Chili Sauce,10,0.0,2.0,0.0
-Panda Express,Sauces,Hot Mustard,10,0.0,0.0,1.0
-Panda Express,Sauces,Soy Sauce,5,0.0,0.0,0.0
-Panda Express,Sauces,Sweet & Sour Sauce,70,0.0,21.0,0.0
-Panda Express,Sauces,Teriyaki Sauce,70,0.0,16.0,0.0
-Panda Express,Sides,Chow Fun,410,9.0,73.0,9.0
-Panda Express,Sides,Chow Mein,600,15.0,94.0,23.0
-Panda Express,Sides,Fried Rice,620,13.0,101.0,19.0
-Panda Express,Sides,Super Greens,130,9.0,14.0,4.0
-Panda Express,Sides,White Steamed Rice,520,10.0,118.0,0.0
-Starbucks,Drinks,Caffè Americano,15,1.0,3.0,0.0
-Starbucks,Drinks,Caffè Latte,190,13.0,19.0,7.0
-Starbucks,Drinks,Caffè Mocha,370,14.0,43.0,15.0
-Starbucks,Drinks,Cappuccino,140,9.0,14.0,5.0
-Starbucks,Drinks,Caramel Frappuccino,380,4.0,60.0,15.0
-Starbucks,Drinks,Caramel Macchiato,250,10.0,34.0,7.0
-Starbucks,Drinks,Chai Tea Latte,240,8.0,43.0,4.5
-Starbucks,Drinks,Cold Brew,5,0.0,0.0,0.0
-Starbucks,Drinks,Flat White,220,12.0,18.0,11.0
-Starbucks,Drinks,Java Chip Frappuccino,440,5.0,66.0,18.0
-Starbucks,Drinks,Mango Dragonfruit Refresher,90,0.0,21.0,0.0
-Starbucks,Drinks,Matcha Latte,240,10.0,33.0,7.0
-Starbucks,Drinks,Mocha Frappuccino,370,5.0,55.0,15.0
-Starbucks,Drinks,Pink Drink,140,1.0,25.0,3.5
-Starbucks,Drinks,Pumpkin Spice Latte,390,14.0,52.0,14.0
-Starbucks,Drinks,Strawberry Açaí Refresher,90,0.0,22.0,0.0
-Starbucks,Drinks,Vanilla Latte,250,12.0,37.0,7.0
-Starbucks,Drinks,Vanilla Protein Latte,310,27.0,36.0,6.0
-Starbucks,Drinks,White Chocolate Mocha,430,14.0,55.0,17.0
-Subway,Breads,Artisan Italian,200,7.0,37.0,2.0
-Subway,Breads,Hearty Multigrain,200,9.0,36.0,2.0
-Subway,Breads,Italian Herbs & Cheese,240,9.0,40.0,5.0
-Subway,Breads,Jalapeño Cheddar,230,9.0,37.0,5.0
-Subway,Cheeses,American,40,2.0,1.0,4.0
-Subway,Cheeses,Monterey Cheddar,50,3.0,1.0,5.0
-Subway,Cheeses,Provolone,50,4.0,0.0,4.0
-Subway,Extras,Avocado,45,1.0,2.0,4.0
-Subway,Extras,Bacon (2 strips),80,5.0,1.0,6.0
-Subway,Extras,Extra cheese,40,2.0,1.0,4.0
-Subway,Proteins,Black Forest Ham,70,10.0,2.0,2.0
-Subway,Proteins,Cold Cut Combo,110,9.0,1.0,8.0
-Subway,Proteins,Italian B.M.T. meats,185,10.0,3.0,15.0
-Subway,Proteins,Meatballs w/ Marinara,250,12.0,13.0,18.0
-Subway,Proteins,Oven-Roasted Turkey,60,11.0,0.0,2.0
-Subway,Proteins,Roast Beef,90,14.0,2.0,3.0
-Subway,Proteins,Rotisserie-Style Chicken,90,15.0,0.0,4.0
-Subway,Proteins,Steak,110,17.0,2.0,5.0
-Subway,Proteins,Tuna,250,12.0,0.0,23.0
-Subway,Proteins,Veggie Patty,170,6.0,17.0,9.0
-Subway,Sauces,Baja Chipotle,70,0.0,1.0,7.0
-Subway,Sauces,Honey Mustard,60,0.0,3.0,5.0
-Subway,Sauces,Mayo,100,0.0,0.0,11.0
-Subway,Sauces,Oil & Vinegar,45,0.0,0.0,5.0
-Subway,Sauces,Peppercorn Ranch,80,0.0,1.0,8.0
-Subway,Sauces,Sweet Onion Teriyaki,30,0.0,7.0,0.0
-Subway,Sauces,Yellow Mustard,10,0.0,1.0,1.0
-Subway,Vegetables,All vegetables,10,0.0,2.0,0.0
-Taco Bell,Add-ons,Black beans (add),50,2.0,8.0,1.5
-Taco Bell,Add-ons,Extra cheddar cheese,30,2.0,0.0,2.5
-Taco Bell,Add-ons,Guacamole,35,0.0,2.0,3.0
-Taco Bell,Add-ons,Nacho cheese sauce,30,1.0,2.0,2.0
-Taco Bell,Add-ons,Reduced-fat sour cream,20,1.0,2.0,1.5
-Taco Bell,Add-ons,Seasoned rice (add),80,1.0,13.0,2.0
-Taco Bell,Add-ons,Spicy ranch,70,0.0,1.0,7.0
-Taco Bell,Burritos,Bean Burrito,350,13.0,54.0,9.0
-Taco Bell,Burritos,Beefy 5-Layer Burrito,490,18.0,63.0,18.0
-Taco Bell,Burritos,Burrito Supreme (beef),390,16.0,51.0,14.0
-Taco Bell,Crunchy tacos,Crunchy Taco Supreme (beef),190,8.0,15.0,11.0
-Taco Bell,Crunchy tacos,Nacho Cheese Doritos Locos Taco,170,8.0,13.0,9.0
-Taco Bell,Crunchy tacos,Seasoned Beef,170,8.0,13.0,9.0
-Taco Bell,Power menu bowls,Power Menu Bowl — Chicken,480,28.0,46.0,20.0
-Taco Bell,Power menu bowls,Power Menu Bowl — Steak,480,25.0,46.0,22.0
-Taco Bell,Power menu bowls,Veggie Power Menu Bowl (black beans),430,12.0,49.0,20.0
-Taco Bell,Quesadillas,Cheese Quesadilla,450,19.0,37.0,25.0
-Taco Bell,Quesadillas,Chicken Quesadilla,510,27.0,38.0,27.0
-Taco Bell,Quesadillas,Steak Quesadilla,500,26.0,37.0,26.0
-Taco Bell,Soft tacos,Grilled Chicken,160,12.0,16.0,5.0
-Taco Bell,Soft tacos,Seasoned Beef,180,9.0,18.0,9.0
-Taco Bell,Soft tacos,Soft Taco Supreme (beef),210,10.0,20.0,10.0
-Wendy's,Extras,Ketchup packet,10,0.0,3.0,0.0
-Wendy's,Extras,Nuggets (4-pc),170,9.0,10.0,11.0
-Wendy's,Frosty,Chocolate Frosty — Jr.,200,5.0,33.0,5.0
-Wendy's,Frosty,Chocolate Frosty — Large,590,15.0,98.0,15.0
-Wendy's,Frosty,Chocolate Frosty — Medium,470,12.0,78.0,12.0
-Wendy's,Frosty,Chocolate Frosty — Small,340,9.0,57.0,9.0
-Wendy's,Frosty,Vanilla Frosty — Large,510,16.0,81.0,15.0
-Wendy's,Frosty,Vanilla Frosty — Medium,420,13.0,66.0,12.0
-Wendy's,Frosty,Vanilla Frosty — Small,310,10.0,49.0,9.0
-Wendy's,Mains,Apple Pecan Chicken Salad (w/ dressing),550,33.0,32.0,34.0
-Wendy's,Mains,Baconator,950,58.0,38.0,62.0
-Wendy's,Mains,Chicken Nuggets (10-pc),420,23.0,26.0,27.0
-Wendy's,Mains,Crispy Chicken Sandwich,330,15.0,33.0,16.0
-Wendy's,Mains,Grilled Chicken Sandwich,350,33.0,36.0,9.0
-Wendy's,Mains,Jr. Bacon Cheeseburger,390,19.0,26.0,23.0
-Wendy's,Mains,Jr. Cheeseburger,290,15.0,26.0,14.0
-Wendy's,Mains,Jr. Hamburger,250,13.0,25.0,11.0
-Wendy's,Mains,Spicy Chicken Sandwich,500,28.0,49.0,20.0
-Wendy's,Mains,Spicy Nuggets (10-pc),470,25.0,29.0,31.0
-Wendy's,Sides,Apple Bites,35,0.0,9.0,0.0
-Wendy's,Sides,Baked Potato (plain),270,7.0,61.0,0.0
-Wendy's,Sides,Chili (small),240,15.0,21.0,11.0
-Wendy's,Sides,Fries (large),530,8.0,70.0,24.0
-Wendy's,Sides,Fries (medium),420,6.0,55.0,19.0
-Wendy's,Sides,Fries (small),320,5.0,42.0,15.0
+{
+ "last_verified": "2026-07",
+ "source": "each chain's officially published nutrition information",
+ "homepage": "https://chaincalories.com",
+ "license": "CC BY 4.0",
+ "chains": {
+  "Chick-fil-A": [
+   {
+    "category": "Drinks",
+    "item": "Diet Lemonade (medium)",
+    "calories": 50,
+    "protein_g": 0.0,
+    "carbs_g": 14.0,
+    "fat_g": 0.0
+   },
+   {
+    "category": "Drinks",
+    "item": "Lemonade (medium)",
+    "calories": 220,
+    "protein_g": 0.0,
+    "carbs_g": 58.0,
+    "fat_g": 0.0
+   },
+   {
+    "category": "Drinks",
+    "item": "Milkshake \u2014 Cookies & Cream",
+    "calories": 630,
+    "protein_g": 13.0,
+    "carbs_g": 92.0,
+    "fat_g": 24.0
+   },
+   {
+    "category": "Drinks",
+    "item": "Sweet Tea (medium)",
+    "calories": 120,
+    "protein_g": 0.0,
+    "carbs_g": 31.0,
+    "fat_g": 0.0
+   },
+   {
+    "category": "Entrees",
+    "item": "Chick-fil-A Chicken Sandwich",
+    "calories": 420,
+    "protein_g": 29.0,
+    "carbs_g": 41.0,
+    "fat_g": 18.0
+   },
+   {
+    "category": "Entrees",
+    "item": "Cobb Salad w/ Nuggets (no dressing)",
+    "calories": 520,
+    "protein_g": 40.0,
+    "carbs_g": 26.0,
+    "fat_g": 27.0
+   },
+   {
+    "category": "Entrees",
+    "item": "Deluxe Chicken Sandwich",
+    "calories": 490,
+    "protein_g": 32.0,
+    "carbs_g": 44.0,
+    "fat_g": 22.0
+   },
+   {
+    "category": "Entrees",
+    "item": "Grilled Chicken Club",
+    "calories": 520,
+    "protein_g": 38.0,
+    "carbs_g": 45.0,
+    "fat_g": 23.0
+   },
+   {
+    "category": "Entrees",
+    "item": "Grilled Chicken Cool Wrap (no dressing)",
+    "calories": 350,
+    "protein_g": 42.0,
+    "carbs_g": 29.0,
+    "fat_g": 13.0
+   },
+   {
+    "category": "Entrees",
+    "item": "Grilled Chicken Sandwich",
+    "calories": 390,
+    "protein_g": 28.0,
+    "carbs_g": 44.0,
+    "fat_g": 12.0
+   },
+   {
+    "category": "Entrees",
+    "item": "Grilled Nuggets (12-count)",
+    "calories": 200,
+    "protein_g": 38.0,
+    "carbs_g": 3.0,
+    "fat_g": 4.5
+   },
+   {
+    "category": "Entrees",
+    "item": "Grilled Nuggets (8-count)",
+    "calories": 130,
+    "protein_g": 25.0,
+    "carbs_g": 2.0,
+    "fat_g": 3.0
+   },
+   {
+    "category": "Entrees",
+    "item": "Nuggets (12-count)",
+    "calories": 380,
+    "protein_g": 40.0,
+    "carbs_g": 16.0,
+    "fat_g": 17.0
+   },
+   {
+    "category": "Entrees",
+    "item": "Nuggets (8-count)",
+    "calories": 250,
+    "protein_g": 27.0,
+    "carbs_g": 11.0,
+    "fat_g": 11.0
+   },
+   {
+    "category": "Entrees",
+    "item": "Spicy Chicken Sandwich",
+    "calories": 450,
+    "protein_g": 29.0,
+    "carbs_g": 45.0,
+    "fat_g": 19.0
+   },
+   {
+    "category": "Sauces",
+    "item": "Barbeque Sauce",
+    "calories": 45,
+    "protein_g": 0.0,
+    "carbs_g": 11.0,
+    "fat_g": 0.0
+   },
+   {
+    "category": "Sauces",
+    "item": "Chick-fil-A Sauce",
+    "calories": 140,
+    "protein_g": 0.0,
+    "carbs_g": 6.0,
+    "fat_g": 13.0
+   },
+   {
+    "category": "Sauces",
+    "item": "Garden Herb Ranch",
+    "calories": 140,
+    "protein_g": 1.0,
+    "carbs_g": 1.0,
+    "fat_g": 14.0
+   },
+   {
+    "category": "Sauces",
+    "item": "Honey Mustard",
+    "calories": 45,
+    "protein_g": 0.0,
+    "carbs_g": 10.0,
+    "fat_g": 0.0
+   },
+   {
+    "category": "Sauces",
+    "item": "Polynesian Sauce",
+    "calories": 110,
+    "protein_g": 0.0,
+    "carbs_g": 13.0,
+    "fat_g": 6.0
+   },
+   {
+    "category": "Sauces",
+    "item": "Sweet & Spicy Sriracha",
+    "calories": 45,
+    "protein_g": 0.0,
+    "carbs_g": 10.0,
+    "fat_g": 0.0
+   },
+   {
+    "category": "Sauces",
+    "item": "Zesty Buffalo",
+    "calories": 25,
+    "protein_g": 0.0,
+    "carbs_g": 1.0,
+    "fat_g": 2.5
+   },
+   {
+    "category": "Sides",
+    "item": "Fruit Cup (medium)",
+    "calories": 60,
+    "protein_g": 1.0,
+    "carbs_g": 15.0,
+    "fat_g": 0.0
+   },
+   {
+    "category": "Sides",
+    "item": "Kale Crunch Side (small)",
+    "calories": 120,
+    "protein_g": 3.0,
+    "carbs_g": 8.0,
+    "fat_g": 9.0
+   },
+   {
+    "category": "Sides",
+    "item": "Mac & Cheese (medium)",
+    "calories": 450,
+    "protein_g": 17.0,
+    "carbs_g": 29.0,
+    "fat_g": 29.0
+   },
+   {
+    "category": "Sides",
+    "item": "Side Salad (no dressing)",
+    "calories": 160,
+    "protein_g": 5.0,
+    "carbs_g": 10.0,
+    "fat_g": 11.0
+   },
+   {
+    "category": "Sides",
+    "item": "Waffle Fries (medium)",
+    "calories": 420,
+    "protein_g": 5.0,
+    "carbs_g": 45.0,
+    "fat_g": 24.0
+   },
+   {
+    "category": "Sides",
+    "item": "Waffle Fries (small)",
+    "calories": 320,
+    "protein_g": 4.0,
+    "carbs_g": 34.0,
+    "fat_g": 19.0
+   },
+   {
+    "category": "Sides",
+    "item": "Waffle Potato Chips",
+    "calories": 220,
+    "protein_g": 3.0,
+    "carbs_g": 25.0,
+    "fat_g": 13.0
+   }
+  ],
+  "Chipotle Mexican Grill": [
+   {
+    "category": "Beans",
+    "item": "Black beans",
+    "calories": 130,
+    "protein_g": 8.0,
+    "carbs_g": 22.0,
+    "fat_g": 1.5
+   },
+   {
+    "category": "Beans",
+    "item": "Pinto beans",
+    "calories": 130,
+    "protein_g": 8.0,
+    "carbs_g": 21.0,
+    "fat_g": 1.5
+   },
+   {
+    "category": "Extras",
+    "item": "Chips",
+    "calories": 540,
+    "protein_g": 7.0,
+    "carbs_g": 73.0,
+    "fat_g": 25.0
+   },
+   {
+    "category": "Extras",
+    "item": "Honey vinaigrette",
+    "calories": 220,
+    "protein_g": 1.0,
+    "carbs_g": 18.0,
+    "fat_g": 16.0
+   },
+   {
+    "category": "Extras",
+    "item": "Tortilla on the side",
+    "calories": 320,
+    "protein_g": 8.0,
+    "carbs_g": 50.0,
+    "fat_g": 9.0
+   },
+   {
+    "category": "Protein",
+    "item": "Barbacoa",
+    "calories": 170,
+    "protein_g": 24.0,
+    "carbs_g": 2.0,
+    "fat_g": 7.0
+   },
+   {
+    "category": "Protein",
+    "item": "Carnitas",
+    "calories": 210,
+    "protein_g": 23.0,
+    "carbs_g": 0.0,
+    "fat_g": 12.0
+   },
+   {
+    "category": "Protein",
+    "item": "Chicken",
+    "calories": 180,
+    "protein_g": 32.0,
+    "carbs_g": 0.0,
+    "fat_g": 7.0
+   },
+   {
+    "category": "Protein",
+    "item": "Chicken al pastor",
+    "calories": 200,
+    "protein_g": 23.0,
+    "carbs_g": 4.0,
+    "fat_g": 11.0
+   },
+   {
+    "category": "Protein",
+    "item": "Chipotle Honey Chicken",
+    "calories": 210,
+    "protein_g": 21.0,
+    "carbs_g": 13.0,
+    "fat_g": 8.0
+   },
+   {
+    "category": "Protein",
+    "item": "Sofritas",
+    "calories": 150,
+    "protein_g": 8.0,
+    "carbs_g": 9.0,
+    "fat_g": 10.0
+   },
+   {
+    "category": "Protein",
+    "item": "Steak",
+    "calories": 150,
+    "protein_g": 21.0,
+    "carbs_g": 1.0,
+    "fat_g": 6.0
+   },
+   {
+    "category": "Rice",
+    "item": "Brown rice",
+    "calories": 210,
+    "protein_g": 4.0,
+    "carbs_g": 36.0,
+    "fat_g": 6.0
+   },
+   {
+    "category": "Rice",
+    "item": "White rice",
+    "calories": 210,
+    "protein_g": 4.0,
+    "carbs_g": 40.0,
+    "fat_g": 4.0
+   },
+   {
+    "category": "Toppings & salsas",
+    "item": "Cheese",
+    "calories": 110,
+    "protein_g": 6.0,
+    "carbs_g": 1.0,
+    "fat_g": 8.0
+   },
+   {
+    "category": "Toppings & salsas",
+    "item": "Corn salsa",
+    "calories": 80,
+    "protein_g": 3.0,
+    "carbs_g": 16.0,
+    "fat_g": 1.5
+   },
+   {
+    "category": "Toppings & salsas",
+    "item": "Fajita veggies",
+    "calories": 20,
+    "protein_g": 1.0,
+    "carbs_g": 5.0,
+    "fat_g": 0.0
+   },
+   {
+    "category": "Toppings & salsas",
+    "item": "Green salsa",
+    "calories": 15,
+    "protein_g": 0.0,
+    "carbs_g": 4.0,
+    "fat_g": 0.0
+   },
+   {
+    "category": "Toppings & salsas",
+    "item": "Guacamole",
+    "calories": 230,
+    "protein_g": 2.0,
+    "carbs_g": 8.0,
+    "fat_g": 22.0
+   },
+   {
+    "category": "Toppings & salsas",
+    "item": "Lettuce",
+    "calories": 5,
+    "protein_g": 0.0,
+    "carbs_g": 1.0,
+    "fat_g": 0.0
+   },
+   {
+    "category": "Toppings & salsas",
+    "item": "Queso blanco",
+    "calories": 120,
+    "protein_g": 5.0,
+    "carbs_g": 4.0,
+    "fat_g": 9.0
+   },
+   {
+    "category": "Toppings & salsas",
+    "item": "Red salsa",
+    "calories": 30,
+    "protein_g": 0.0,
+    "carbs_g": 4.0,
+    "fat_g": 0.0
+   },
+   {
+    "category": "Toppings & salsas",
+    "item": "Sour cream",
+    "calories": 110,
+    "protein_g": 2.0,
+    "carbs_g": 2.0,
+    "fat_g": 9.0
+   },
+   {
+    "category": "Toppings & salsas",
+    "item": "Tomato salsa",
+    "calories": 25,
+    "protein_g": 0.0,
+    "carbs_g": 4.0,
+    "fat_g": 0.0
+   }
+  ],
+  "Panda Express": [
+   {
+    "category": "Appetizers",
+    "item": "Chicken Egg Roll",
+    "calories": 200,
+    "protein_g": 6.0,
+    "carbs_g": 20.0,
+    "fat_g": 10.0
+   },
+   {
+    "category": "Appetizers",
+    "item": "Chicken Potsticker (3pc)",
+    "calories": 160,
+    "protein_g": 6.0,
+    "carbs_g": 20.0,
+    "fat_g": 6.0
+   },
+   {
+    "category": "Appetizers",
+    "item": "Cream Cheese Rangoon (3pc)",
+    "calories": 190,
+    "protein_g": 5.0,
+    "carbs_g": 24.0,
+    "fat_g": 8.0
+   },
+   {
+    "category": "Appetizers",
+    "item": "Vegetable Spring Roll (2)",
+    "calories": 240,
+    "protein_g": 4.0,
+    "carbs_g": 24.0,
+    "fat_g": 14.0
+   },
+   {
+    "category": "Entrees",
+    "item": "Beijing Beef",
+    "calories": 470,
+    "protein_g": 14.0,
+    "carbs_g": 46.0,
+    "fat_g": 27.0
+   },
+   {
+    "category": "Entrees",
+    "item": "Black Pepper Chicken",
+    "calories": 280,
+    "protein_g": 13.0,
+    "carbs_g": 15.0,
+    "fat_g": 19.0
+   },
+   {
+    "category": "Entrees",
+    "item": "Black Pepper Sirloin Steak",
+    "calories": 180,
+    "protein_g": 19.0,
+    "carbs_g": 12.0,
+    "fat_g": 6.0
+   },
+   {
+    "category": "Entrees",
+    "item": "Broccoli Beef",
+    "calories": 150,
+    "protein_g": 15.0,
+    "carbs_g": 12.0,
+    "fat_g": 6.0
+   },
+   {
+    "category": "Entrees",
+    "item": "Eggplant Tofu",
+    "calories": 340,
+    "protein_g": 7.0,
+    "carbs_g": 23.0,
+    "fat_g": 24.0
+   },
+   {
+    "category": "Entrees",
+    "item": "Grilled Teriyaki Chicken",
+    "calories": 275,
+    "protein_g": 33.0,
+    "carbs_g": 14.0,
+    "fat_g": 10.0
+   },
+   {
+    "category": "Entrees",
+    "item": "Honey Sesame Chicken Breast",
+    "calories": 340,
+    "protein_g": 16.0,
+    "carbs_g": 35.0,
+    "fat_g": 15.0
+   },
+   {
+    "category": "Entrees",
+    "item": "Honey Walnut Shrimp",
+    "calories": 430,
+    "protein_g": 13.0,
+    "carbs_g": 32.0,
+    "fat_g": 28.0
+   },
+   {
+    "category": "Entrees",
+    "item": "Hot Orange Chicken",
+    "calories": 550,
+    "protein_g": 17.0,
+    "carbs_g": 59.0,
+    "fat_g": 27.0
+   },
+   {
+    "category": "Entrees",
+    "item": "Kung Pao Chicken",
+    "calories": 320,
+    "protein_g": 17.0,
+    "carbs_g": 15.0,
+    "fat_g": 21.0
+   },
+   {
+    "category": "Entrees",
+    "item": "Mushroom Chicken",
+    "calories": 220,
+    "protein_g": 13.0,
+    "carbs_g": 10.0,
+    "fat_g": 14.0
+   },
+   {
+    "category": "Entrees",
+    "item": "Orange Chicken",
+    "calories": 510,
+    "protein_g": 16.0,
+    "carbs_g": 53.0,
+    "fat_g": 24.0
+   },
+   {
+    "category": "Entrees",
+    "item": "Potato Chicken",
+    "calories": 190,
+    "protein_g": 8.0,
+    "carbs_g": 18.0,
+    "fat_g": 10.0
+   },
+   {
+    "category": "Entrees",
+    "item": "Steamed Ginger Fish",
+    "calories": 200,
+    "protein_g": 15.0,
+    "carbs_g": 8.0,
+    "fat_g": 12.0
+   },
+   {
+    "category": "Entrees",
+    "item": "String Bean Chicken Breast",
+    "calories": 210,
+    "protein_g": 12.0,
+    "carbs_g": 13.0,
+    "fat_g": 12.0
+   },
+   {
+    "category": "Entrees",
+    "item": "Super Greens Entree",
+    "calories": 90,
+    "protein_g": 6.0,
+    "carbs_g": 10.0,
+    "fat_g": 3.0
+   },
+   {
+    "category": "Entrees",
+    "item": "Sweet & Sour Chicken Breast",
+    "calories": 300,
+    "protein_g": 10.0,
+    "carbs_g": 40.0,
+    "fat_g": 12.0
+   },
+   {
+    "category": "Entrees",
+    "item": "Sweetfire Chicken Breast",
+    "calories": 360,
+    "protein_g": 15.0,
+    "carbs_g": 40.0,
+    "fat_g": 15.0
+   },
+   {
+    "category": "Entrees",
+    "item": "Teriyaki Chicken",
+    "calories": 340,
+    "protein_g": 41.0,
+    "carbs_g": 14.0,
+    "fat_g": 13.0
+   },
+   {
+    "category": "Entrees",
+    "item": "Wok-Fired Shrimp",
+    "calories": 190,
+    "protein_g": 17.0,
+    "carbs_g": 19.0,
+    "fat_g": 5.0
+   },
+   {
+    "category": "Sauces",
+    "item": "Chili Sauce",
+    "calories": 10,
+    "protein_g": 0.0,
+    "carbs_g": 2.0,
+    "fat_g": 0.0
+   },
+   {
+    "category": "Sauces",
+    "item": "Hot Mustard",
+    "calories": 10,
+    "protein_g": 0.0,
+    "carbs_g": 0.0,
+    "fat_g": 1.0
+   },
+   {
+    "category": "Sauces",
+    "item": "Soy Sauce",
+    "calories": 5,
+    "protein_g": 0.0,
+    "carbs_g": 0.0,
+    "fat_g": 0.0
+   },
+   {
+    "category": "Sauces",
+    "item": "Sweet & Sour Sauce",
+    "calories": 70,
+    "protein_g": 0.0,
+    "carbs_g": 21.0,
+    "fat_g": 0.0
+   },
+   {
+    "category": "Sauces",
+    "item": "Teriyaki Sauce",
+    "calories": 70,
+    "protein_g": 0.0,
+    "carbs_g": 16.0,
+    "fat_g": 0.0
+   },
+   {
+    "category": "Sides",
+    "item": "Chow Fun",
+    "calories": 410,
+    "protein_g": 9.0,
+    "carbs_g": 73.0,
+    "fat_g": 9.0
+   },
+   {
+    "category": "Sides",
+    "item": "Chow Mein",
+    "calories": 600,
+    "protein_g": 15.0,
+    "carbs_g": 94.0,
+    "fat_g": 23.0
+   },
+   {
+    "category": "Sides",
+    "item": "Fried Rice",
+    "calories": 620,
+    "protein_g": 13.0,
+    "carbs_g": 101.0,
+    "fat_g": 19.0
+   },
+   {
+    "category": "Sides",
+    "item": "Super Greens",
+    "calories": 130,
+    "protein_g": 9.0,
+    "carbs_g": 14.0,
+    "fat_g": 4.0
+   },
+   {
+    "category": "Sides",
+    "item": "White Steamed Rice",
+    "calories": 520,
+    "protein_g": 10.0,
+    "carbs_g": 118.0,
+    "fat_g": 0.0
+   }
+  ],
+  "Starbucks": [
+   {
+    "category": "Drinks",
+    "item": "Caff\u00e8 Americano",
+    "calories": 15,
+    "protein_g": 1.0,
+    "carbs_g": 3.0,
+    "fat_g": 0.0
+   },
+   {
+    "category": "Drinks",
+    "item": "Caff\u00e8 Latte",
+    "calories": 190,
+    "protein_g": 13.0,
+    "carbs_g": 19.0,
+    "fat_g": 7.0
+   },
+   {
+    "category": "Drinks",
+    "item": "Caff\u00e8 Mocha",
+    "calories": 370,
+    "protein_g": 14.0,
+    "carbs_g": 43.0,
+    "fat_g": 15.0
+   },
+   {
+    "category": "Drinks",
+    "item": "Cappuccino",
+    "calories": 140,
+    "protein_g": 9.0,
+    "carbs_g": 14.0,
+    "fat_g": 5.0
+   },
+   {
+    "category": "Drinks",
+    "item": "Caramel Frappuccino",
+    "calories": 380,
+    "protein_g": 4.0,
+    "carbs_g": 60.0,
+    "fat_g": 15.0
+   },
+   {
+    "category": "Drinks",
+    "item": "Caramel Macchiato",
+    "calories": 250,
+    "protein_g": 10.0,
+    "carbs_g": 34.0,
+    "fat_g": 7.0
+   },
+   {
+    "category": "Drinks",
+    "item": "Chai Tea Latte",
+    "calories": 240,
+    "protein_g": 8.0,
+    "carbs_g": 43.0,
+    "fat_g": 4.5
+   },
+   {
+    "category": "Drinks",
+    "item": "Cold Brew",
+    "calories": 5,
+    "protein_g": 0.0,
+    "carbs_g": 0.0,
+    "fat_g": 0.0
+   },
+   {
+    "category": "Drinks",
+    "item": "Flat White",
+    "calories": 220,
+    "protein_g": 12.0,
+    "carbs_g": 18.0,
+    "fat_g": 11.0
+   },
+   {
+    "category": "Drinks",
+    "item": "Java Chip Frappuccino",
+    "calories": 440,
+    "protein_g": 5.0,
+    "carbs_g": 66.0,
+    "fat_g": 18.0
+   },
+   {
+    "category": "Drinks",
+    "item": "Mango Dragonfruit Refresher",
+    "calories": 90,
+    "protein_g": 0.0,
+    "carbs_g": 21.0,
+    "fat_g": 0.0
+   },
+   {
+    "category": "Drinks",
+    "item": "Matcha Latte",
+    "calories": 240,
+    "protein_g": 10.0,
+    "carbs_g": 33.0,
+    "fat_g": 7.0
+   },
+   {
+    "category": "Drinks",
+    "item": "Mocha Frappuccino",
+    "calories": 370,
+    "protein_g": 5.0,
+    "carbs_g": 55.0,
+    "fat_g": 15.0
+   },
+   {
+    "category": "Drinks",
+    "item": "Pink Drink",
+    "calories": 140,
+    "protein_g": 1.0,
+    "carbs_g": 25.0,
+    "fat_g": 3.5
+   },
+   {
+    "category": "Drinks",
+    "item": "Pumpkin Spice Latte",
+    "calories": 390,
+    "protein_g": 14.0,
+    "carbs_g": 52.0,
+    "fat_g": 14.0
+   },
+   {
+    "category": "Drinks",
+    "item": "Strawberry A\u00e7a\u00ed Refresher",
+    "calories": 90,
+    "protein_g": 0.0,
+    "carbs_g": 22.0,
+    "fat_g": 0.0
+   },
+   {
+    "category": "Drinks",
+    "item": "Vanilla Latte",
+    "calories": 250,
+    "protein_g": 12.0,
+    "carbs_g": 37.0,
+    "fat_g": 7.0
+   },
+   {
+    "category": "Drinks",
+    "item": "Vanilla Protein Latte",
+    "calories": 310,
+    "protein_g": 27.0,
+    "carbs_g": 36.0,
+    "fat_g": 6.0
+   },
+   {
+    "category": "Drinks",
+    "item": "White Chocolate Mocha",
+    "calories": 430,
+    "protein_g": 14.0,
+    "carbs_g": 55.0,
+    "fat_g": 17.0
+   }
+  ],
+  "Subway": [
+   {
+    "category": "Breads",
+    "item": "Artisan Italian",
+    "calories": 200,
+    "protein_g": 7.0,
+    "carbs_g": 37.0,
+    "fat_g": 2.0
+   },
+   {
+    "category": "Breads",
+    "item": "Hearty Multigrain",
+    "calories": 200,
+    "protein_g": 9.0,
+    "carbs_g": 36.0,
+    "fat_g": 2.0
+   },
+   {
+    "category": "Breads",
+    "item": "Italian Herbs & Cheese",
+    "calories": 240,
+    "protein_g": 9.0,
+    "carbs_g": 40.0,
+    "fat_g": 5.0
+   },
+   {
+    "category": "Breads",
+    "item": "Jalape\u00f1o Cheddar",
+    "calories": 230,
+    "protein_g": 9.0,
+    "carbs_g": 37.0,
+    "fat_g": 5.0
+   },
+   {
+    "category": "Cheeses",
+    "item": "American",
+    "calories": 40,
+    "protein_g": 2.0,
+    "carbs_g": 1.0,
+    "fat_g": 4.0
+   },
+   {
+    "category": "Cheeses",
+    "item": "Monterey Cheddar",
+    "calories": 50,
+    "protein_g": 3.0,
+    "carbs_g": 1.0,
+    "fat_g": 5.0
+   },
+   {
+    "category": "Cheeses",
+    "item": "Provolone",
+    "calories": 50,
+    "protein_g": 4.0,
+    "carbs_g": 0.0,
+    "fat_g": 4.0
+   },
+   {
+    "category": "Extras",
+    "item": "Avocado",
+    "calories": 45,
+    "protein_g": 1.0,
+    "carbs_g": 2.0,
+    "fat_g": 4.0
+   },
+   {
+    "category": "Extras",
+    "item": "Bacon (2 strips)",
+    "calories": 80,
+    "protein_g": 5.0,
+    "carbs_g": 1.0,
+    "fat_g": 6.0
+   },
+   {
+    "category": "Extras",
+    "item": "Extra cheese",
+    "calories": 40,
+    "protein_g": 2.0,
+    "carbs_g": 1.0,
+    "fat_g": 4.0
+   },
+   {
+    "category": "Proteins",
+    "item": "Black Forest Ham",
+    "calories": 70,
+    "protein_g": 10.0,
+    "carbs_g": 2.0,
+    "fat_g": 2.0
+   },
+   {
+    "category": "Proteins",
+    "item": "Cold Cut Combo",
+    "calories": 110,
+    "protein_g": 9.0,
+    "carbs_g": 1.0,
+    "fat_g": 8.0
+   },
+   {
+    "category": "Proteins",
+    "item": "Italian B.M.T. meats",
+    "calories": 185,
+    "protein_g": 10.0,
+    "carbs_g": 3.0,
+    "fat_g": 15.0
+   },
+   {
+    "category": "Proteins",
+    "item": "Meatballs w/ Marinara",
+    "calories": 250,
+    "protein_g": 12.0,
+    "carbs_g": 13.0,
+    "fat_g": 18.0
+   },
+   {
+    "category": "Proteins",
+    "item": "Oven-Roasted Turkey",
+    "calories": 60,
+    "protein_g": 11.0,
+    "carbs_g": 0.0,
+    "fat_g": 2.0
+   },
+   {
+    "category": "Proteins",
+    "item": "Roast Beef",
+    "calories": 90,
+    "protein_g": 14.0,
+    "carbs_g": 2.0,
+    "fat_g": 3.0
+   },
+   {
+    "category": "Proteins",
+    "item": "Rotisserie-Style Chicken",
+    "calories": 90,
+    "protein_g": 15.0,
+    "carbs_g": 0.0,
+    "fat_g": 4.0
+   },
+   {
+    "category": "Proteins",
+    "item": "Steak",
+    "calories": 110,
+    "protein_g": 17.0,
+    "carbs_g": 2.0,
+    "fat_g": 5.0
+   },
+   {
+    "category": "Proteins",
+    "item": "Tuna",
+    "calories": 250,
+    "protein_g": 12.0,
+    "carbs_g": 0.0,
+    "fat_g": 23.0
+   },
+   {
+    "category": "Proteins",
+    "item": "Veggie Patty",
+    "calories": 170,
+    "protein_g": 6.0,
+    "carbs_g": 17.0,
+    "fat_g": 9.0
+   },
+   {
+    "category": "Sauces",
+    "item": "Baja Chipotle",
+    "calories": 70,
+    "protein_g": 0.0,
+    "carbs_g": 1.0,
+    "fat_g": 7.0
+   },
+   {
+    "category": "Sauces",
+    "item": "Honey Mustard",
+    "calories": 60,
+    "protein_g": 0.0,
+    "carbs_g": 3.0,
+    "fat_g": 5.0
+   },
+   {
+    "category": "Sauces",
+    "item": "Mayo",
+    "calories": 100,
+    "protein_g": 0.0,
+    "carbs_g": 0.0,
+    "fat_g": 11.0
+   },
+   {
+    "category": "Sauces",
+    "item": "Oil & Vinegar",
+    "calories": 45,
+    "protein_g": 0.0,
+    "carbs_g": 0.0,
+    "fat_g": 5.0
+   },
+   {
+    "category": "Sauces",
+    "item": "Peppercorn Ranch",
+    "calories": 80,
+    "protein_g": 0.0,
+    "carbs_g": 1.0,
+    "fat_g": 8.0
+   },
+   {
+    "category": "Sauces",
+    "item": "Sweet Onion Teriyaki",
+    "calories": 30,
+    "protein_g": 0.0,
+    "carbs_g": 7.0,
+    "fat_g": 0.0
+   },
+   {
+    "category": "Sauces",
+    "item": "Yellow Mustard",
+    "calories": 10,
+    "protein_g": 0.0,
+    "carbs_g": 1.0,
+    "fat_g": 1.0
+   },
+   {
+    "category": "Vegetables",
+    "item": "All vegetables",
+    "calories": 10,
+    "protein_g": 0.0,
+    "carbs_g": 2.0,
+    "fat_g": 0.0
+   }
+  ],
+  "Taco Bell": [
+   {
+    "category": "Add-ons",
+    "item": "Black beans (add)",
+    "calories": 50,
+    "protein_g": 2.0,
+    "carbs_g": 8.0,
+    "fat_g": 1.5
+   },
+   {
+    "category": "Add-ons",
+    "item": "Extra cheddar cheese",
+    "calories": 30,
+    "protein_g": 2.0,
+    "carbs_g": 0.0,
+    "fat_g": 2.5
+   },
+   {
+    "category": "Add-ons",
+    "item": "Guacamole",
+    "calories": 35,
+    "protein_g": 0.0,
+    "carbs_g": 2.0,
+    "fat_g": 3.0
+   },
+   {
+    "category": "Add-ons",
+    "item": "Nacho cheese sauce",
+    "calories": 30,
+    "protein_g": 1.0,
+    "carbs_g": 2.0,
+    "fat_g": 2.0
+   },
+   {
+    "category": "Add-ons",
+    "item": "Reduced-fat sour cream",
+    "calories": 20,
+    "protein_g": 1.0,
+    "carbs_g": 2.0,
+    "fat_g": 1.5
+   },
+   {
+    "category": "Add-ons",
+    "item": "Seasoned rice (add)",
+    "calories": 80,
+    "protein_g": 1.0,
+    "carbs_g": 13.0,
+    "fat_g": 2.0
+   },
+   {
+    "category": "Add-ons",
+    "item": "Spicy ranch",
+    "calories": 70,
+    "protein_g": 0.0,
+    "carbs_g": 1.0,
+    "fat_g": 7.0
+   },
+   {
+    "category": "Burritos",
+    "item": "Bean Burrito",
+    "calories": 350,
+    "protein_g": 13.0,
+    "carbs_g": 54.0,
+    "fat_g": 9.0
+   },
+   {
+    "category": "Burritos",
+    "item": "Beefy 5-Layer Burrito",
+    "calories": 490,
+    "protein_g": 18.0,
+    "carbs_g": 63.0,
+    "fat_g": 18.0
+   },
+   {
+    "category": "Burritos",
+    "item": "Burrito Supreme (beef)",
+    "calories": 390,
+    "protein_g": 16.0,
+    "carbs_g": 51.0,
+    "fat_g": 14.0
+   },
+   {
+    "category": "Crunchy tacos",
+    "item": "Crunchy Taco Supreme (beef)",
+    "calories": 190,
+    "protein_g": 8.0,
+    "carbs_g": 15.0,
+    "fat_g": 11.0
+   },
+   {
+    "category": "Crunchy tacos",
+    "item": "Nacho Cheese Doritos Locos Taco",
+    "calories": 170,
+    "protein_g": 8.0,
+    "carbs_g": 13.0,
+    "fat_g": 9.0
+   },
+   {
+    "category": "Crunchy tacos",
+    "item": "Seasoned Beef",
+    "calories": 170,
+    "protein_g": 8.0,
+    "carbs_g": 13.0,
+    "fat_g": 9.0
+   },
+   {
+    "category": "Power menu bowls",
+    "item": "Power Menu Bowl \u2014 Chicken",
+    "calories": 480,
+    "protein_g": 28.0,
+    "carbs_g": 46.0,
+    "fat_g": 20.0
+   },
+   {
+    "category": "Power menu bowls",
+    "item": "Power Menu Bowl \u2014 Steak",
+    "calories": 480,
+    "protein_g": 25.0,
+    "carbs_g": 46.0,
+    "fat_g": 22.0
+   },
+   {
+    "category": "Power menu bowls",
+    "item": "Veggie Power Menu Bowl (black beans)",
+    "calories": 430,
+    "protein_g": 12.0,
+    "carbs_g": 49.0,
+    "fat_g": 20.0
+   },
+   {
+    "category": "Quesadillas",
+    "item": "Cheese Quesadilla",
+    "calories": 450,
+    "protein_g": 19.0,
+    "carbs_g": 37.0,
+    "fat_g": 25.0
+   },
+   {
+    "category": "Quesadillas",
+    "item": "Chicken Quesadilla",
+    "calories": 510,
+    "protein_g": 27.0,
+    "carbs_g": 38.0,
+    "fat_g": 27.0
+   },
+   {
+    "category": "Quesadillas",
+    "item": "Steak Quesadilla",
+    "calories": 500,
+    "protein_g": 26.0,
+    "carbs_g": 37.0,
+    "fat_g": 26.0
+   },
+   {
+    "category": "Soft tacos",
+    "item": "Grilled Chicken",
+    "calories": 160,
+    "protein_g": 12.0,
+    "carbs_g": 16.0,
+    "fat_g": 5.0
+   },
+   {
+    "category": "Soft tacos",
+    "item": "Seasoned Beef",
+    "calories": 180,
+    "protein_g": 9.0,
+    "carbs_g": 18.0,
+    "fat_g": 9.0
+   },
+   {
+    "category": "Soft tacos",
+    "item": "Soft Taco Supreme (beef)",
+    "calories": 210,
+    "protein_g": 10.0,
+    "carbs_g": 20.0,
+    "fat_g": 10.0
+   }
+  ],
+  "Wendy's": [
+   {
+    "category": "Extras",
+    "item": "Ketchup packet",
+    "calories": 10,
+    "protein_g": 0.0,
+    "carbs_g": 3.0,
+    "fat_g": 0.0
+   },
+   {
+    "category": "Extras",
+    "item": "Nuggets (4-pc)",
+    "calories": 170,
+    "protein_g": 9.0,
+    "carbs_g": 10.0,
+    "fat_g": 11.0
+   },
+   {
+    "category": "Frosty",
+    "item": "Chocolate Frosty \u2014 Jr.",
+    "calories": 200,
+    "protein_g": 5.0,
+    "carbs_g": 33.0,
+    "fat_g": 5.0
+   },
+   {
+    "category": "Frosty",
+    "item": "Chocolate Frosty \u2014 Large",
+    "calories": 590,
+    "protein_g": 15.0,
+    "carbs_g": 98.0,
+    "fat_g": 15.0
+   },
+   {
+    "category": "Frosty",
+    "item": "Chocolate Frosty \u2014 Medium",
+    "calories": 470,
+    "protein_g": 12.0,
+    "carbs_g": 78.0,
+    "fat_g": 12.0
+   },
+   {
+    "category": "Frosty",
+    "item": "Chocolate Frosty \u2014 Small",
+    "calories": 340,
+    "protein_g": 9.0,
+    "carbs_g": 57.0,
+    "fat_g": 9.0
+   },
+   {
+    "category": "Frosty",
+    "item": "Vanilla Frosty \u2014 Large",
+    "calories": 510,
+    "protein_g": 16.0,
+    "carbs_g": 81.0,
+    "fat_g": 15.0
+   },
+   {
+    "category": "Frosty",
+    "item": "Vanilla Frosty \u2014 Medium",
+    "calories": 420,
+    "protein_g": 13.0,
+    "carbs_g": 66.0,
+    "fat_g": 12.0
+   },
+   {
+    "category": "Frosty",
+    "item": "Vanilla Frosty \u2014 Small",
+    "calories": 310,
+    "protein_g": 10.0,
+    "carbs_g": 49.0,
+    "fat_g": 9.0
+   },
+   {
+    "category": "Mains",
+    "item": "Apple Pecan Chicken Salad (w/ dressing)",
+    "calories": 550,
+    "protein_g": 33.0,
+    "carbs_g": 32.0,
+    "fat_g": 34.0
+   },
+   {
+    "category": "Mains",
+    "item": "Baconator",
+    "calories": 950,
+    "protein_g": 58.0,
+    "carbs_g": 38.0,
+    "fat_g": 62.0
+   },
+   {
+    "category": "Mains",
+    "item": "Chicken Nuggets (10-pc)",
+    "calories": 420,
+    "protein_g": 23.0,
+    "carbs_g": 26.0,
+    "fat_g": 27.0
+   },
+   {
+    "category": "Mains",
+    "item": "Crispy Chicken Sandwich",
+    "calories": 330,
+    "protein_g": 15.0,
+    "carbs_g": 33.0,
+    "fat_g": 16.0
+   },
+   {
+    "category": "Mains",
+    "item": "Grilled Chicken Sandwich",
+    "calories": 350,
+    "protein_g": 33.0,
+    "carbs_g": 36.0,
+    "fat_g": 9.0
+   },
+   {
+    "category": "Mains",
+    "item": "Jr. Bacon Cheeseburger",
+    "calories": 390,
+    "protein_g": 19.0,
+    "carbs_g": 26.0,
+    "fat_g": 23.0
+   },
+   {
+    "category": "Mains",
+    "item": "Jr. Cheeseburger",
+    "calories": 290,
+    "protein_g": 15.0,
+    "carbs_g": 26.0,
+    "fat_g": 14.0
+   },
+   {
+    "category": "Mains",
+    "item": "Jr. Hamburger",
+    "calories": 250,
+    "protein_g": 13.0,
+    "carbs_g": 25.0,
+    "fat_g": 11.0
+   },
+   {
+    "category": "Mains",
+    "item": "Spicy Chicken Sandwich",
+    "calories": 500,
+    "protein_g": 28.0,
+    "carbs_g": 49.0,
+    "fat_g": 20.0
+   },
+   {
+    "category": "Mains",
+    "item": "Spicy Nuggets (10-pc)",
+    "calories": 470,
+    "protein_g": 25.0,
+    "carbs_g": 29.0,
+    "fat_g": 31.0
+   },
+   {
+    "category": "Sides",
+    "item": "Apple Bites",
+    "calories": 35,
+    "protein_g": 0.0,
+    "carbs_g": 9.0,
+    "fat_g": 0.0
+   },
+   {
+    "category": "Sides",
+    "item": "Baked Potato (plain)",
+    "calories": 270,
+    "protein_g": 7.0,
+    "carbs_g": 61.0,
+    "fat_g": 0.0
+   },
+   {
+    "category": "Sides",
+    "item": "Chili (small)",
+    "calories": 240,
+    "protein_g": 15.0,
+    "carbs_g": 21.0,
+    "fat_g": 11.0
+   },
+   {
+    "category": "Sides",
+    "item": "Fries (large)",
+    "calories": 530,
+    "protein_g": 8.0,
+    "carbs_g": 70.0,
+    "fat_g": 24.0
+   },
+   {
+    "category": "Sides",
+    "item": "Fries (medium)",
+    "calories": 420,
+    "protein_g": 6.0,
+    "carbs_g": 55.0,
+    "fat_g": 19.0
+   },
+   {
+    "category": "Sides",
+    "item": "Fries (small)",
+    "calories": 320,
+    "protein_g": 5.0,
+    "carbs_g": 42.0,
+    "fat_g": 15.0
+   }
+  ]
+ }
+}
