@@ -1,0 +1,182 @@
+chain,category,item,calories,protein_g,carbs_g,fat_g
+Chick-fil-A,Drinks,Diet Lemonade (medium),50,0.0,14.0,0.0
+Chick-fil-A,Drinks,Lemonade (medium),220,0.0,58.0,0.0
+Chick-fil-A,Drinks,Milkshake — Cookies & Cream,630,13.0,92.0,24.0
+Chick-fil-A,Drinks,Sweet Tea (medium),120,0.0,31.0,0.0
+Chick-fil-A,Entrees,Chick-fil-A Chicken Sandwich,420,29.0,41.0,18.0
+Chick-fil-A,Entrees,Cobb Salad w/ Nuggets (no dressing),520,40.0,26.0,27.0
+Chick-fil-A,Entrees,Deluxe Chicken Sandwich,490,32.0,44.0,22.0
+Chick-fil-A,Entrees,Grilled Chicken Club,520,38.0,45.0,23.0
+Chick-fil-A,Entrees,Grilled Chicken Cool Wrap (no dressing),350,42.0,29.0,13.0
+Chick-fil-A,Entrees,Grilled Chicken Sandwich,390,28.0,44.0,12.0
+Chick-fil-A,Entrees,Grilled Nuggets (12-count),200,38.0,3.0,4.5
+Chick-fil-A,Entrees,Grilled Nuggets (8-count),130,25.0,2.0,3.0
+Chick-fil-A,Entrees,Nuggets (12-count),380,40.0,16.0,17.0
+Chick-fil-A,Entrees,Nuggets (8-count),250,27.0,11.0,11.0
+Chick-fil-A,Entrees,Spicy Chicken Sandwich,450,29.0,45.0,19.0
+Chick-fil-A,Sauces,Barbeque Sauce,45,0.0,11.0,0.0
+Chick-fil-A,Sauces,Chick-fil-A Sauce,140,0.0,6.0,13.0
+Chick-fil-A,Sauces,Garden Herb Ranch,140,1.0,1.0,14.0
+Chick-fil-A,Sauces,Honey Mustard,45,0.0,10.0,0.0
+Chick-fil-A,Sauces,Polynesian Sauce,110,0.0,13.0,6.0
+Chick-fil-A,Sauces,Sweet & Spicy Sriracha,45,0.0,10.0,0.0
+Chick-fil-A,Sauces,Zesty Buffalo,25,0.0,1.0,2.5
+Chick-fil-A,Sides,Fruit Cup (medium),60,1.0,15.0,0.0
+Chick-fil-A,Sides,Kale Crunch Side (small),120,3.0,8.0,9.0
+Chick-fil-A,Sides,Mac & Cheese (medium),450,17.0,29.0,29.0
+Chick-fil-A,Sides,Side Salad (no dressing),160,5.0,10.0,11.0
+Chick-fil-A,Sides,Waffle Fries (medium),420,5.0,45.0,24.0
+Chick-fil-A,Sides,Waffle Fries (small),320,4.0,34.0,19.0
+Chick-fil-A,Sides,Waffle Potato Chips,220,3.0,25.0,13.0
+Chipotle Mexican Grill,Beans,Black beans,130,8.0,22.0,1.5
+Chipotle Mexican Grill,Beans,Pinto beans,130,8.0,21.0,1.5
+Chipotle Mexican Grill,Extras,Chips,540,7.0,73.0,25.0
+Chipotle Mexican Grill,Extras,Honey vinaigrette,220,1.0,18.0,16.0
+Chipotle Mexican Grill,Extras,Tortilla on the side,320,8.0,50.0,9.0
+Chipotle Mexican Grill,Protein,Barbacoa,170,24.0,2.0,7.0
+Chipotle Mexican Grill,Protein,Carnitas,210,23.0,0.0,12.0
+Chipotle Mexican Grill,Protein,Chicken,180,32.0,0.0,7.0
+Chipotle Mexican Grill,Protein,Chicken al pastor,200,23.0,4.0,11.0
+Chipotle Mexican Grill,Protein,Chipotle Honey Chicken,210,21.0,13.0,8.0
+Chipotle Mexican Grill,Protein,Sofritas,150,8.0,9.0,10.0
+Chipotle Mexican Grill,Protein,Steak,150,21.0,1.0,6.0
+Chipotle Mexican Grill,Rice,Brown rice,210,4.0,36.0,6.0
+Chipotle Mexican Grill,Rice,White rice,210,4.0,40.0,4.0
+Chipotle Mexican Grill,Toppings & salsas,Cheese,110,6.0,1.0,8.0
+Chipotle Mexican Grill,Toppings & salsas,Corn salsa,80,3.0,16.0,1.5
+Chipotle Mexican Grill,Toppings & salsas,Fajita veggies,20,1.0,5.0,0.0
+Chipotle Mexican Grill,Toppings & salsas,Green salsa,15,0.0,4.0,0.0
+Chipotle Mexican Grill,Toppings & salsas,Guacamole,230,2.0,8.0,22.0
+Chipotle Mexican Grill,Toppings & salsas,Lettuce,5,0.0,1.0,0.0
+Chipotle Mexican Grill,Toppings & salsas,Queso blanco,120,5.0,4.0,9.0
+Chipotle Mexican Grill,Toppings & salsas,Red salsa,30,0.0,4.0,0.0
+Chipotle Mexican Grill,Toppings & salsas,Sour cream,110,2.0,2.0,9.0
+Chipotle Mexican Grill,Toppings & salsas,Tomato salsa,25,0.0,4.0,0.0
+Panda Express,Appetizers,Chicken Egg Roll,200,6.0,20.0,10.0
+Panda Express,Appetizers,Chicken Potsticker (3pc),160,6.0,20.0,6.0
+Panda Express,Appetizers,Cream Cheese Rangoon (3pc),190,5.0,24.0,8.0
+Panda Express,Appetizers,Vegetable Spring Roll (2),240,4.0,24.0,14.0
+Panda Express,Entrees,Beijing Beef,470,14.0,46.0,27.0
+Panda Express,Entrees,Black Pepper Chicken,280,13.0,15.0,19.0
+Panda Express,Entrees,Black Pepper Sirloin Steak,180,19.0,12.0,6.0
+Panda Express,Entrees,Broccoli Beef,150,15.0,12.0,6.0
+Panda Express,Entrees,Eggplant Tofu,340,7.0,23.0,24.0
+Panda Express,Entrees,Grilled Teriyaki Chicken,275,33.0,14.0,10.0
+Panda Express,Entrees,Honey Sesame Chicken Breast,340,16.0,35.0,15.0
+Panda Express,Entrees,Honey Walnut Shrimp,430,13.0,32.0,28.0
+Panda Express,Entrees,Hot Orange Chicken,550,17.0,59.0,27.0
+Panda Express,Entrees,Kung Pao Chicken,320,17.0,15.0,21.0
+Panda Express,Entrees,Mushroom Chicken,220,13.0,10.0,14.0
+Panda Express,Entrees,Orange Chicken,510,16.0,53.0,24.0
+Panda Express,Entrees,Potato Chicken,190,8.0,18.0,10.0
+Panda Express,Entrees,Steamed Ginger Fish,200,15.0,8.0,12.0
+Panda Express,Entrees,String Bean Chicken Breast,210,12.0,13.0,12.0
+Panda Express,Entrees,Super Greens Entree,90,6.0,10.0,3.0
+Panda Express,Entrees,Sweet & Sour Chicken Breast,300,10.0,40.0,12.0
+Panda Express,Entrees,Sweetfire Chicken Breast,360,15.0,40.0,15.0
+Panda Express,Entrees,Teriyaki Chicken,340,41.0,14.0,13.0
+Panda Express,Entrees,Wok-Fired Shrimp,190,17.0,19.0,5.0
+Panda Express,Sauces,Chili Sauce,10,0.0,2.0,0.0
+Panda Express,Sauces,Hot Mustard,10,0.0,0.0,1.0
+Panda Express,Sauces,Soy Sauce,5,0.0,0.0,0.0
+Panda Express,Sauces,Sweet & Sour Sauce,70,0.0,21.0,0.0
+Panda Express,Sauces,Teriyaki Sauce,70,0.0,16.0,0.0
+Panda Express,Sides,Chow Fun,410,9.0,73.0,9.0
+Panda Express,Sides,Chow Mein,600,15.0,94.0,23.0
+Panda Express,Sides,Fried Rice,620,13.0,101.0,19.0
+Panda Express,Sides,Super Greens,130,9.0,14.0,4.0
+Panda Express,Sides,White Steamed Rice,520,10.0,118.0,0.0
+Starbucks,Drinks,Caffè Americano,15,1.0,3.0,0.0
+Starbucks,Drinks,Caffè Latte,190,13.0,19.0,7.0
+Starbucks,Drinks,Caffè Mocha,370,14.0,43.0,15.0
+Starbucks,Drinks,Cappuccino,140,9.0,14.0,5.0
+Starbucks,Drinks,Caramel Frappuccino,380,4.0,60.0,15.0
+Starbucks,Drinks,Caramel Macchiato,250,10.0,34.0,7.0
+Starbucks,Drinks,Chai Tea Latte,240,8.0,43.0,4.5
+Starbucks,Drinks,Cold Brew,5,0.0,0.0,0.0
+Starbucks,Drinks,Flat White,220,12.0,18.0,11.0
+Starbucks,Drinks,Java Chip Frappuccino,440,5.0,66.0,18.0
+Starbucks,Drinks,Mango Dragonfruit Refresher,90,0.0,21.0,0.0
+Starbucks,Drinks,Matcha Latte,240,10.0,33.0,7.0
+Starbucks,Drinks,Mocha Frappuccino,370,5.0,55.0,15.0
+Starbucks,Drinks,Pink Drink,140,1.0,25.0,3.5
+Starbucks,Drinks,Pumpkin Spice Latte,390,14.0,52.0,14.0
+Starbucks,Drinks,Strawberry Açaí Refresher,90,0.0,22.0,0.0
+Starbucks,Drinks,Vanilla Latte,250,12.0,37.0,7.0
+Starbucks,Drinks,Vanilla Protein Latte,310,27.0,36.0,6.0
+Starbucks,Drinks,White Chocolate Mocha,430,14.0,55.0,17.0
+Subway,Breads,Artisan Italian,200,7.0,37.0,2.0
+Subway,Breads,Hearty Multigrain,200,9.0,36.0,2.0
+Subway,Breads,Italian Herbs & Cheese,240,9.0,40.0,5.0
+Subway,Breads,Jalapeño Cheddar,230,9.0,37.0,5.0
+Subway,Cheeses,American,40,2.0,1.0,4.0
+Subway,Cheeses,Monterey Cheddar,50,3.0,1.0,5.0
+Subway,Cheeses,Provolone,50,4.0,0.0,4.0
+Subway,Extras,Avocado,45,1.0,2.0,4.0
+Subway,Extras,Bacon (2 strips),80,5.0,1.0,6.0
+Subway,Extras,Extra cheese,40,2.0,1.0,4.0
+Subway,Proteins,Black Forest Ham,70,10.0,2.0,2.0
+Subway,Proteins,Cold Cut Combo,110,9.0,1.0,8.0
+Subway,Proteins,Italian B.M.T. meats,185,10.0,3.0,15.0
+Subway,Proteins,Meatballs w/ Marinara,250,12.0,13.0,18.0
+Subway,Proteins,Oven-Roasted Turkey,60,11.0,0.0,2.0
+Subway,Proteins,Roast Beef,90,14.0,2.0,3.0
+Subway,Proteins,Rotisserie-Style Chicken,90,15.0,0.0,4.0
+Subway,Proteins,Steak,110,17.0,2.0,5.0
+Subway,Proteins,Tuna,250,12.0,0.0,23.0
+Subway,Proteins,Veggie Patty,170,6.0,17.0,9.0
+Subway,Sauces,Baja Chipotle,70,0.0,1.0,7.0
+Subway,Sauces,Honey Mustard,60,0.0,3.0,5.0
+Subway,Sauces,Mayo,100,0.0,0.0,11.0
+Subway,Sauces,Oil & Vinegar,45,0.0,0.0,5.0
+Subway,Sauces,Peppercorn Ranch,80,0.0,1.0,8.0
+Subway,Sauces,Sweet Onion Teriyaki,30,0.0,7.0,0.0
+Subway,Sauces,Yellow Mustard,10,0.0,1.0,1.0
+Subway,Vegetables,All vegetables,10,0.0,2.0,0.0
+Taco Bell,Add-ons,Black beans (add),50,2.0,8.0,1.5
+Taco Bell,Add-ons,Extra cheddar cheese,30,2.0,0.0,2.5
+Taco Bell,Add-ons,Guacamole,35,0.0,2.0,3.0
+Taco Bell,Add-ons,Nacho cheese sauce,30,1.0,2.0,2.0
+Taco Bell,Add-ons,Reduced-fat sour cream,20,1.0,2.0,1.5
+Taco Bell,Add-ons,Seasoned rice (add),80,1.0,13.0,2.0
+Taco Bell,Add-ons,Spicy ranch,70,0.0,1.0,7.0
+Taco Bell,Burritos,Bean Burrito,350,13.0,54.0,9.0
+Taco Bell,Burritos,Beefy 5-Layer Burrito,490,18.0,63.0,18.0
+Taco Bell,Burritos,Burrito Supreme (beef),390,16.0,51.0,14.0
+Taco Bell,Crunchy tacos,Crunchy Taco Supreme (beef),190,8.0,15.0,11.0
+Taco Bell,Crunchy tacos,Nacho Cheese Doritos Locos Taco,170,8.0,13.0,9.0
+Taco Bell,Crunchy tacos,Seasoned Beef,170,8.0,13.0,9.0
+Taco Bell,Power menu bowls,Power Menu Bowl — Chicken,480,28.0,46.0,20.0
+Taco Bell,Power menu bowls,Power Menu Bowl — Steak,480,25.0,46.0,22.0
+Taco Bell,Power menu bowls,Veggie Power Menu Bowl (black beans),430,12.0,49.0,20.0
+Taco Bell,Quesadillas,Cheese Quesadilla,450,19.0,37.0,25.0
+Taco Bell,Quesadillas,Chicken Quesadilla,510,27.0,38.0,27.0
+Taco Bell,Quesadillas,Steak Quesadilla,500,26.0,37.0,26.0
+Taco Bell,Soft tacos,Grilled Chicken,160,12.0,16.0,5.0
+Taco Bell,Soft tacos,Seasoned Beef,180,9.0,18.0,9.0
+Taco Bell,Soft tacos,Soft Taco Supreme (beef),210,10.0,20.0,10.0
+Wendy's,Extras,Ketchup packet,10,0.0,3.0,0.0
+Wendy's,Extras,Nuggets (4-pc),170,9.0,10.0,11.0
+Wendy's,Frosty,Chocolate Frosty — Jr.,200,5.0,33.0,5.0
+Wendy's,Frosty,Chocolate Frosty — Large,590,15.0,98.0,15.0
+Wendy's,Frosty,Chocolate Frosty — Medium,470,12.0,78.0,12.0
+Wendy's,Frosty,Chocolate Frosty — Small,340,9.0,57.0,9.0
+Wendy's,Frosty,Vanilla Frosty — Large,510,16.0,81.0,15.0
+Wendy's,Frosty,Vanilla Frosty — Medium,420,13.0,66.0,12.0
+Wendy's,Frosty,Vanilla Frosty — Small,310,10.0,49.0,9.0
+Wendy's,Mains,Apple Pecan Chicken Salad (w/ dressing),550,33.0,32.0,34.0
+Wendy's,Mains,Baconator,950,58.0,38.0,62.0
+Wendy's,Mains,Chicken Nuggets (10-pc),420,23.0,26.0,27.0
+Wendy's,Mains,Crispy Chicken Sandwich,330,15.0,33.0,16.0
+Wendy's,Mains,Grilled Chicken Sandwich,350,33.0,36.0,9.0
+Wendy's,Mains,Jr. Bacon Cheeseburger,390,19.0,26.0,23.0
+Wendy's,Mains,Jr. Cheeseburger,290,15.0,26.0,14.0
+Wendy's,Mains,Jr. Hamburger,250,13.0,25.0,11.0
+Wendy's,Mains,Spicy Chicken Sandwich,500,28.0,49.0,20.0
+Wendy's,Mains,Spicy Nuggets (10-pc),470,25.0,29.0,31.0
+Wendy's,Sides,Apple Bites,35,0.0,9.0,0.0
+Wendy's,Sides,Baked Potato (plain),270,7.0,61.0,0.0
+Wendy's,Sides,Chili (small),240,15.0,21.0,11.0
+Wendy's,Sides,Fries (large),530,8.0,70.0,24.0
+Wendy's,Sides,Fries (medium),420,6.0,55.0,19.0
+Wendy's,Sides,Fries (small),320,5.0,42.0,15.0
